@@ -22,6 +22,9 @@ What each EXE does:
 The one that has the "manual mode" naming relies on an open PowerShell windows running in admin mode. This version allow you to copy and paste every command manually into the PowerShell terminal to easily see what commands are being used, and errors that may happen so it is clear what is happening.
 
 The more user friendly version does not need any PowerShell window and everything operates behind the scenes and runs clean, though, you will not get any error output. This version is intended for advanced users, but a newbie could use it too, just don't expect support if you have any issues.
+
+
+
 Why I made this:
 
 The reason why I made this app is because some people like myself use Storage Spaces as a free alternative to  hardware or software RAID on the market, but it was very unfortunate that Microsoft decided the completely nerf any advanced Storage Spaces settings for the end user. Their basic stripped down gui that ships with windows is nothing like the one they have in their Windows Server OS. 
