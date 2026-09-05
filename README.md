@@ -1,27 +1,19 @@
 A quick README:
 
-This app was made using a.i. and it was only tested in windows 10, 
-and according to the a.i. it should work in windows 11.
+This app was made using a.i. and it was only tested manually in windows 10, and according to the a.i. it should work in windows 11. I did have the a.i. run through 50x simulations of any and all possible combinations possible to create, delete, optimize all variations of storage spaces and all the apps functions. This also includes all of the advanced virtual disks and options that can be created in the "Advanced Virtual Disk Builder" section of the app. Any and all errors found were corrected and applied, but be aware, their could still be the odd bug.
 
-It worked perfectly for me and my purposes on the latest (and last) version of windows 10 22H2 with no errors. I tested all functions and created every type of Storage Space and never had an issue.
+It worked perfectly for me and my purposes on the latest (and last) version of windows 10 22H2 with no errors. I tested all functions and created every type of Storage Space (but not any advanced virtual disks) and never had an issue.
 
 Use this app at your own risk, I am not responsible for any data loss.
 
-There will only be this version(s) of the app, I will not create anything further, but I welcome anyone to use the code and make their own, or alter the app in any way they see fit, it would be nice to get a mention somewhere in there though ;)
+There will only be this version of the app, I will not create anything further unless I see a major issue I need to address it for my own uses and decide to share that update, but I welcome anyone to use the code and make their own, or alter the app in any way they see fit, it would be nice to get a mention somewhere in there though ;)
 
 
 
 What's included:
 
-I have included the original PS1 file and also two executable versions of the app. 
+I have included the original PS1 file, this readme, the icon file used, and obviously the executable version of the app.
 
-
-
-What each EXE does:
-
-The one that has the "manual mode" naming relies on an open PowerShell windows running in admin mode. This version allow you to copy and paste every command manually into the PowerShell terminal to easily see what commands are being used, and errors that may happen so it is clear what is happening.
-
-The more user friendly version does not need any PowerShell window and everything operates behind the scenes and runs clean, though, you will not get any error output. This version is intended for advanced users, but a newbie could use it too, just don't expect support if you have any issues.
 
 
 
@@ -39,9 +31,9 @@ I only wish Microsoft simply shipped the fully usable gui version from their Win
 
 Go ahead and enjoy this app:
 
-I hope that the app serves you well, and I'm sorry if it doesn't work in Windows 11 for some reason, I would use the manual mode version first to see if it will work for you, then you can turn to the standard version if all goes well. If this app works for you and you like it, go ahead, copy it, share it, re-code it, I don't care. I know RAID is niche nowadays, but it is still useful for those that have large libraries and spent a lot of time and money over the years putting it together, I hope that this utility can help speed up the process for some, and take out the guess work when making a Storage Space for Windows for everyone. Thanks for using my app, may it serve you well!
+I hope that the app serves you well, and I'm sorry if it doesn't work in Windows 11, or there may be any bugs for some reason. If this app works for you and you like it, go ahead, copy it, share it, re-code it, I don't care -and by all means, go ahead and fix any bugs if you find any! I know RAID is niche nowadays, but it is still useful for those that have large libraries and spent a lot of time and money over the years putting it together, I hope that this utility can help speed up the process for some, and take out the guess work when making a Storage Space or Advanced Virtual Disks for Windows for everyone. Thanks for using my app, may it serve you well!
 
 
 -rEd2k
 
-Aug. 31/2026
+Sept. 04/2026
