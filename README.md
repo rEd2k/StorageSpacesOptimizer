@@ -4,7 +4,7 @@ A powerful, free, and open-source GUI utility designed to easily create, manage,
 
 Eliminate complex PowerShell scripts and the limitations of the default Windows Settings app. Bring enterprise-grade **Storage Tiering**, **Caching**, and **Custom Resiliency** configurations straight to your desktop via a user-friendly graphic user interface.
 
-👉 **[Download the Latest Release][https://github.com/rEd2k/StorageSpacesOptimizer/releases/download/v1.0/StorageSpacesOptimizer.zip]**
+👉 **[Download StorageSpacesOptimizer v1.0 (.zip)](https://github.com/rEd2k/StorageSpacesOptimizer/releases/download/v1.0/StorageSpacesOptimizer.zip)**
 
 ---
 
