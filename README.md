@@ -1,3 +1,5 @@
+You may have searched for: "How to set up storage tiering in Windows 10 GUI?", or "Windows Storage Spaces optimization script", or "Create advanced virtual disks without PowerShell" etc. But look no further! This app can do ALL of the needed Windows Storage Spaces and virtual disk setups possible. If you want some more context continue to read below, or go ahead and download the open source and completely free app and try it for yourself :)
+
 A quick README:
 
 This app was made using a.i. and it was only tested manually in windows 10, and according to the a.i. it should work in windows 11. I did have the a.i. run through 50x simulations of any and all possible combinations possible to create, delete, optimize all variations of storage spaces and all the apps functions. This also includes all of the advanced virtual disks and options that can be created in the "Advanced Virtual Disk Builder" section of the app. Any and all errors found were corrected and applied, but be aware, their could still be the odd bug.
