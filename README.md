@@ -1,4 +1,4 @@
-# StorageSpacesOptimizer 🚀
+# StorageSpacesOptimizer 💽
 
 A powerful, free, and open-source GUI utility designed to easily create, manage, and optimize **Windows Storage Spaces** and **Advanced Virtual Disks** on Windows 10 and Windows 11. 
 
